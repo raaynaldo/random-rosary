@@ -1,6 +1,6 @@
-# Vanilla Ruby Command Line Project
+# Random Rosary
 
-This repository shows a basic setup for a command line application in Ruby.
+Rosary prayer random generator.
 
 
 ## Getting Started
